@@ -36,6 +36,7 @@ namespace DataTransformation
             public IEnumerable<string> distName { get; set; }
         }
         #endregion
+
         #region Create data sources
 
         public static List<Customer> customers = new List<Customer>
@@ -70,7 +71,5 @@ namespace DataTransformation
 
         public static double[] exchange = { 0.89, 0.65, 120.29 };
         #endregion
-
-     
     }
 }

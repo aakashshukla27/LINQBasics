@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTransformation", "LINQBasics\DataTransformation.csproj", "{D4A4734D-C88B-4D78-BCFA-B6DC99702133}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeRelationships", "TypeRelationships\TypeRelationships.csproj", "{FA4A70BA-0050-4394-89AE-13707FFD7A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTransformation", "DataTransformation\DataTransformation.csproj", "{0CBCCEA1-2119-4FF6-8A11-153C45A41D12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D4A4734D-C88B-4D78-BCFA-B6DC99702133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D4A4734D-C88B-4D78-BCFA-B6DC99702133}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D4A4734D-C88B-4D78-BCFA-B6DC99702133}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D4A4734D-C88B-4D78-BCFA-B6DC99702133}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FA4A70BA-0050-4394-89AE-13707FFD7A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FA4A70BA-0050-4394-89AE-13707FFD7A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA4A70BA-0050-4394-89AE-13707FFD7A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA4A70BA-0050-4394-89AE-13707FFD7A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CBCCEA1-2119-4FF6-8A11-153C45A41D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBCCEA1-2119-4FF6-8A11-153C45A41D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBCCEA1-2119-4FF6-8A11-153C45A41D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBCCEA1-2119-4FF6-8A11-153C45A41D12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
